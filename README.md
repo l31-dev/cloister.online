@@ -1,3 +1,5 @@
+<p><a href="https://www.buymeacoffee.com/traildev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="traildev" /></a></p><br><br>
+
 ### Tor-Based Service with No Sign-Up Required
 
 - **Accessibility:** Operates exclusively through the Tor network, accessible via the Tor browser or a clearnet proxy.
