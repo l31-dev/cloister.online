@@ -1,5 +1,18 @@
-Our service operates exclusively through the Tor network, ensuring accessibility via the Tor browser or a clearnet proxy. What's unique is that users don't have to sign up or log in at all. There are no sign-up processes whatsoever. Privacy and anonymity are at the core of our platform; users navigate without any discernible identity markers, eliminating the possibility of identifying one another. Colors and pseudonyms are non-existent within our interface, and all media shared undergoes meticulous metadata clearance for added anonymity and security.
+### Tor-Based Service with No Sign-Up Required
 
-Unlike traditional forums, we're more than just a message board. Each user can create their own channel that everyone else can see. What's unique is our decentralized moderation system: everyone in the community can moderate. That means anyone can delete a post, making everyone responsible for maintaining the forum's quality. Bans don't exist here; instead, we trust our users to curate the content they want to see.
+- **Accessibility:** Operates exclusively through the Tor network, accessible via the Tor browser or a clearnet proxy.
+- **No Sign-Up:** Users don't need to sign up or log in. Zero sign-up processes involved.
+- **Privacy and Anonymity:** Core principles ensure users navigate without identifiable markers, ensuring mutual anonymity. No colors or pseudonyms exist within the interface.
+- **Media Security:** All shared media undergoes meticulous metadata clearance for enhanced anonymity and security.
 
-Regarding moderation, when someone wants to delete a post, it triggers a "deletion war" channel where all flagged posts go. In this channel, a new button appears: "like" and "dislike". Each post has a 5-minute window where people can vote to keep or delete it, allowing users to engage in a sort of voting battle. When the 5 minutes are up, based on the votes, we either return the post to its original channel with a 10-minute cooldown for further deletion attempts or permanently delete it without leaving any traces.
+### Decentralized Moderation and User-Created Channels
+
+- **Beyond Message Boards:** Users can create their own channels, visible to everyone.
+- **Decentralized Moderation:** Community-wide moderation allows anyone to delete a post, fostering collective responsibility for content quality.
+- **No Bans, User Empowerment:** Trust placed in users to curate desired content instead of imposing bans.
+
+### "Deletion War" and Voting System
+
+- **Deletion Process:** Flagged posts initiate a "deletion war" channel.
+- **Voting Mechanism:** Users engage in a 5-minute voting battle using "like" and "dislike" buttons.
+- **Post Fate:** Based on votes, posts return to the original channel with a cooldown or get permanently deleted without traces.
