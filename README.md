@@ -4,6 +4,7 @@
 - **No Sign-Up:** Users don't need to sign up or log in. Zero sign-up processes involved.
 - **Privacy and Anonymity:** Core principles ensure users navigate without identifiable markers, ensuring mutual anonymity. No colors or pseudonyms exist within the interface.
 - **Media Security:** All shared media undergoes meticulous metadata clearance for enhanced anonymity and security.
+- **No JavaScript:** The entire service operates without the use of JavaScript for heightened security.
 
 ### Decentralized Moderation and User-Created Channels
 
